@@ -1,6 +1,6 @@
 # Vue 3 + TypeScript + Vite
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+本项目是由vue3，ts,vite搭建的一个商城后台管理平台，其中采用了路由以及路由权限的判断，实现了权限屏蔽功能，采用echarts实现了数据大屏，包含商品管理，员工权限管理等通用功能。
 
 ## Recommended Setup
 
